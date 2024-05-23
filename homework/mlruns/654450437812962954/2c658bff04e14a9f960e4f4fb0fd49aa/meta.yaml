@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/2c658bff04e14a9f960e4f4fb0fd49aa/artifacts
+end_time: 1716484536945
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 2c658bff04e14a9f960e4f4fb0fd49aa
+run_name: monumental-stork-678
+run_uuid: 2c658bff04e14a9f960e4f4fb0fd49aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484529118
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/c6c01ae880b840518a5007fb75e0e220/artifacts
+end_time: 1716484927946
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: c6c01ae880b840518a5007fb75e0e220
+run_name: carefree-lark-306
+run_uuid: c6c01ae880b840518a5007fb75e0e220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484919323
+status: 3
+tags: []
+user_id: codespace

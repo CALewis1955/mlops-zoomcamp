@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/b308c101e1d142b483f60127dff4c519/artifacts
+end_time: 1716483394578
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: b308c101e1d142b483f60127dff4c519
+run_name: upbeat-kite-905
+run_uuid: b308c101e1d142b483f60127dff4c519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483386720
+status: 3
+tags: []
+user_id: codespace

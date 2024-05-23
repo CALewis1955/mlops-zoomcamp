@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/9076896952b8490e8583cfa76b242734/artifacts
+deleted_time: 1716483336096
+end_time: 1716482941877
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: 9076896952b8490e8583cfa76b242734
+run_name: marvelous-toad-54
+run_uuid: 9076896952b8490e8583cfa76b242734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482933301
+status: 3
+tags: []
+user_id: codespace

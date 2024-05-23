@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/e5794a0dd28a49008dc531b339c8c5cc/artifacts
+deleted_time: 1716483336096
+end_time: 1716482851080
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: e5794a0dd28a49008dc531b339c8c5cc
+run_name: serious-mule-577
+run_uuid: e5794a0dd28a49008dc531b339c8c5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482842443
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/7f9422339bbf4195b49e47c08caff6fc/artifacts
+end_time: 1716483537394
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 7f9422339bbf4195b49e47c08caff6fc
+run_name: resilient-ox-815
+run_uuid: 7f9422339bbf4195b49e47c08caff6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483529578
+status: 3
+tags: []
+user_id: codespace

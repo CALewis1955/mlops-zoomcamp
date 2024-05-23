@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/c4e0ed7d35a042949629c0e53e2ee612/artifacts
+end_time: 1716484769200
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: c4e0ed7d35a042949629c0e53e2ee612
+run_name: placid-zebra-205
+run_uuid: c4e0ed7d35a042949629c0e53e2ee612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484761497
+status: 3
+tags: []
+user_id: codespace

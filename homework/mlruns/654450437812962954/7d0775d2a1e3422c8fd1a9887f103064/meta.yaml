@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/7d0775d2a1e3422c8fd1a9887f103064/artifacts
+end_time: 1716484233708
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 7d0775d2a1e3422c8fd1a9887f103064
+run_name: defiant-kit-123
+run_uuid: 7d0775d2a1e3422c8fd1a9887f103064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484225127
+status: 3
+tags: []
+user_id: codespace

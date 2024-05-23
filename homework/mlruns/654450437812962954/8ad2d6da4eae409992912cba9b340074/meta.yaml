@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/8ad2d6da4eae409992912cba9b340074/artifacts
+end_time: 1716483668284
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 8ad2d6da4eae409992912cba9b340074
+run_name: valuable-finch-56
+run_uuid: 8ad2d6da4eae409992912cba9b340074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483660575
+status: 3
+tags: []
+user_id: codespace

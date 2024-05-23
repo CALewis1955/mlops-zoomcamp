@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/63b2ac62233f4051944055148f8cad8e/artifacts
+deleted_time: 1716483336096
+end_time: 1716482912288
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: 63b2ac62233f4051944055148f8cad8e
+run_name: adventurous-finch-55
+run_uuid: 63b2ac62233f4051944055148f8cad8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482904572
+status: 3
+tags: []
+user_id: codespace

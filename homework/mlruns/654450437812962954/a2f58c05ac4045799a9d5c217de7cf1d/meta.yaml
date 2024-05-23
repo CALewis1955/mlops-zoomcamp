@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/a2f58c05ac4045799a9d5c217de7cf1d/artifacts
+end_time: 1716484250208
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: a2f58c05ac4045799a9d5c217de7cf1d
+run_name: amusing-conch-892
+run_uuid: a2f58c05ac4045799a9d5c217de7cf1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484242376
+status: 3
+tags: []
+user_id: codespace

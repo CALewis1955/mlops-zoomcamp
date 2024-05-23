@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/f6956ac248234ce2b0d459a24a8cde6c/artifacts
+end_time: 1716480003028
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: f6956ac248234ce2b0d459a24a8cde6c
+run_name: upbeat-lark-21
+run_uuid: f6956ac248234ce2b0d459a24a8cde6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716479998566
+status: 3
+tags: []
+user_id: codespace

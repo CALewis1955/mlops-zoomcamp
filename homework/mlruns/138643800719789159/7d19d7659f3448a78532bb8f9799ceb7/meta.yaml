@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/7d19d7659f3448a78532bb8f9799ceb7/artifacts
+end_time: 1716479993169
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 7d19d7659f3448a78532bb8f9799ceb7
+run_name: rebellious-hare-812
+run_uuid: 7d19d7659f3448a78532bb8f9799ceb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716479992225
+status: 3
+tags: []
+user_id: codespace

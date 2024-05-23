@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/bedf140c55f149d7acae08070ba4619a/artifacts
+deleted_time: 1716483336096
+end_time: 1716482949655
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: bedf140c55f149d7acae08070ba4619a
+run_name: wistful-horse-980
+run_uuid: bedf140c55f149d7acae08070ba4619a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482941884
+status: 3
+tags: []
+user_id: codespace

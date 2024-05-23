@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/6cbcaf6542584bec8938ee33f63751a1/artifacts
+end_time: 1716479972045
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 6cbcaf6542584bec8938ee33f63751a1
+run_name: classy-lamb-521
+run_uuid: 6cbcaf6542584bec8938ee33f63751a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716479966856
+status: 3
+tags: []
+user_id: codespace

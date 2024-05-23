@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/c50011939cd54c2680857755a61e70f1/artifacts
+end_time: 1716483475158
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: c50011939cd54c2680857755a61e70f1
+run_name: intrigued-cat-674
+run_uuid: c50011939cd54c2680857755a61e70f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483462672
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/9e084b479f0b41fa91009b2d522a0dde/artifacts
+end_time: 1716485116560
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 9e084b479f0b41fa91009b2d522a0dde
+run_name: adorable-snipe-618
+run_uuid: 9e084b479f0b41fa91009b2d522a0dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485104045
+status: 3
+tags: []
+user_id: codespace

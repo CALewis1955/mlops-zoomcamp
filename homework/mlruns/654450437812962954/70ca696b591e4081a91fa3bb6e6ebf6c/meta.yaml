@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/70ca696b591e4081a91fa3bb6e6ebf6c/artifacts
+end_time: 1716484529112
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 70ca696b591e4081a91fa3bb6e6ebf6c
+run_name: funny-penguin-852
+run_uuid: 70ca696b591e4081a91fa3bb6e6ebf6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484520532
+status: 3
+tags: []
+user_id: codespace

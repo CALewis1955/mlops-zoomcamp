@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/42b327b574604ff3812c9696b6591d50/artifacts
+end_time: 1716483357048
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 42b327b574604ff3812c9696b6591d50
+run_name: calm-mouse-953
+run_uuid: 42b327b574604ff3812c9696b6591d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483349379
+status: 3
+tags: []
+user_id: codespace

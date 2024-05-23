@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/812da175a60846cd9ca8ef2bbc10deea/artifacts
+end_time: 1716485141211
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 812da175a60846cd9ca8ef2bbc10deea
+run_name: bold-sow-386
+run_uuid: 812da175a60846cd9ca8ef2bbc10deea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485133429
+status: 3
+tags: []
+user_id: codespace

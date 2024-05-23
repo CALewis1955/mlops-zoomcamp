@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/16381733a5644680a980bd2a26671916/artifacts
+end_time: 1716483369590
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 16381733a5644680a980bd2a26671916
+run_name: luxuriant-auk-530
+run_uuid: 16381733a5644680a980bd2a26671916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483357055
+status: 3
+tags: []
+user_id: codespace

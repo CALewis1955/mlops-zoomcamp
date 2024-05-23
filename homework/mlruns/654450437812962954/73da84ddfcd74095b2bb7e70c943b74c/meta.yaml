@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/73da84ddfcd74095b2bb7e70c943b74c/artifacts
+end_time: 1716484212510
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 73da84ddfcd74095b2bb7e70c943b74c
+run_name: kindly-turtle-962
+run_uuid: 73da84ddfcd74095b2bb7e70c943b74c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484204813
+status: 3
+tags: []
+user_id: codespace

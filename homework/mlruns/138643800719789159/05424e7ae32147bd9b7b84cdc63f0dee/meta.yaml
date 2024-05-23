@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/05424e7ae32147bd9b7b84cdc63f0dee/artifacts
+end_time: 1716479992213
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 05424e7ae32147bd9b7b84cdc63f0dee
+run_name: honorable-bee-874
+run_uuid: 05424e7ae32147bd9b7b84cdc63f0dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716479983589
+status: 3
+tags: []
+user_id: codespace

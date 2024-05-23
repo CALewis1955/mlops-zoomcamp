@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/5e132535d3a242929d5bb50e7d830204/artifacts
+end_time: 1716483740312
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 5e132535d3a242929d5bb50e7d830204
+run_name: beautiful-moth-749
+run_uuid: 5e132535d3a242929d5bb50e7d830204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483727782
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/6112f6acb1254be3945c3220a10e0899/artifacts
+end_time: 1716479966847
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 6112f6acb1254be3945c3220a10e0899
+run_name: nervous-grub-709
+run_uuid: 6112f6acb1254be3945c3220a10e0899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716479966293
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/9983253b14b2487c9befd89ab45ee7a3/artifacts
+end_time: 1716484898429
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 9983253b14b2487c9befd89ab45ee7a3
+run_name: receptive-skink-226
+run_uuid: 9983253b14b2487c9befd89ab45ee7a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484890772
+status: 3
+tags: []
+user_id: codespace

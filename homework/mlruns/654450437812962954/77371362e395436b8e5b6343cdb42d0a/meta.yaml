@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/77371362e395436b8e5b6343cdb42d0a/artifacts
+end_time: 1716483566835
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 77371362e395436b8e5b6343cdb42d0a
+run_name: fortunate-frog-796
+run_uuid: 77371362e395436b8e5b6343cdb42d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483558223
+status: 3
+tags: []
+user_id: codespace

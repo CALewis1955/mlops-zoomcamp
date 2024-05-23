@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/f48ba42df5a14df5b5881b72b51273cb/artifacts
+end_time: 1716485104038
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: f48ba42df5a14df5b5881b72b51273cb
+run_name: receptive-ape-209
+run_uuid: f48ba42df5a14df5b5881b72b51273cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485096395
+status: 3
+tags: []
+user_id: codespace

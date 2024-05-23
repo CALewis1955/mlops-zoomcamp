@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/1df68997f6ee4a6e8f811299e99243ed/artifacts
+end_time: 1716479983581
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 1df68997f6ee4a6e8f811299e99243ed
+run_name: honorable-shrimp-806
+run_uuid: 1df68997f6ee4a6e8f811299e99243ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716479974598
+status: 3
+tags: []
+user_id: codespace

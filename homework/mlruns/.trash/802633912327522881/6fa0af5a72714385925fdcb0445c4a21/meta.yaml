@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/6fa0af5a72714385925fdcb0445c4a21/artifacts
+deleted_time: 1716483336096
+end_time: 1716482300788
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: 6fa0af5a72714385925fdcb0445c4a21
+run_name: unruly-stoat-228
+run_uuid: 6fa0af5a72714385925fdcb0445c4a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482292847
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/fb88fdc3cb084eaaa0e43d4f7b92cafb/artifacts
+deleted_time: 1716483336096
+end_time: 1716482982753
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: fb88fdc3cb084eaaa0e43d4f7b92cafb
+run_name: monumental-eel-177
+run_uuid: fb88fdc3cb084eaaa0e43d4f7b92cafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482975120
+status: 3
+tags: []
+user_id: codespace

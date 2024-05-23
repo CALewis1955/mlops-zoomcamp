@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/eae36cf0ee6742b9b174a13cd317a28c/artifacts
+deleted_time: 1716483336096
+end_time: 1716482292840
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: eae36cf0ee6742b9b174a13cd317a28c
+run_name: righteous-snipe-157
+run_uuid: eae36cf0ee6742b9b174a13cd317a28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482284264
+status: 3
+tags: []
+user_id: codespace

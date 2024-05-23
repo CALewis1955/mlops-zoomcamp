@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/9a77e2f5d22548d2a5cd339b3df6e5d3/artifacts
+deleted_time: 1716483336096
+end_time: 1716482924971
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: 9a77e2f5d22548d2a5cd339b3df6e5d3
+run_name: intrigued-goose-703
+run_uuid: 9a77e2f5d22548d2a5cd339b3df6e5d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482912295
+status: 3
+tags: []
+user_id: codespace

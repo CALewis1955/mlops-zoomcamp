@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/d4949584063741489a4f6f9640d6667a/artifacts
+end_time: 1716485546696
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: d4949584063741489a4f6f9640d6667a
+run_name: big-bug-91
+run_uuid: d4949584063741489a4f6f9640d6667a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485539044
+status: 3
+tags: []
+user_id: codespace

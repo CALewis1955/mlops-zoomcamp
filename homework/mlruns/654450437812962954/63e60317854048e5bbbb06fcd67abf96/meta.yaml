@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/63e60317854048e5bbbb06fcd67abf96/artifacts
+end_time: 1716484919316
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 63e60317854048e5bbbb06fcd67abf96
+run_name: serious-gnu-694
+run_uuid: 63e60317854048e5bbbb06fcd67abf96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484910968
+status: 3
+tags: []
+user_id: codespace

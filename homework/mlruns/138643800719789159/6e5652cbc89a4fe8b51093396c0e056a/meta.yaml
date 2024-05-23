@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/6e5652cbc89a4fe8b51093396c0e056a/artifacts
+end_time: 1716480018412
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 6e5652cbc89a4fe8b51093396c0e056a
+run_name: popular-hog-361
+run_uuid: 6e5652cbc89a4fe8b51093396c0e056a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716480013437
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/eeb4eb46f0784c918fcaae43e17d8806/artifacts
+end_time: 1716485133423
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: eeb4eb46f0784c918fcaae43e17d8806
+run_name: bittersweet-lark-534
+run_uuid: eeb4eb46f0784c918fcaae43e17d8806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485124862
+status: 3
+tags: []
+user_id: codespace

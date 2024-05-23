@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/53da2cb790be44b8850c87d3e4e46230/artifacts
+end_time: 1716483558216
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 53da2cb790be44b8850c87d3e4e46230
+run_name: classy-whale-90
+run_uuid: 53da2cb790be44b8850c87d3e4e46230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483549873
+status: 3
+tags: []
+user_id: codespace

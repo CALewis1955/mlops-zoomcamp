@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/d21c850036134f80bf9c4ea39bc1cc83/artifacts
+end_time: 1716485559364
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: d21c850036134f80bf9c4ea39bc1cc83
+run_name: marvelous-gnu-20
+run_uuid: d21c850036134f80bf9c4ea39bc1cc83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485546702
+status: 3
+tags: []
+user_id: codespace

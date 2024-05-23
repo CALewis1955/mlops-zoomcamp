@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/207c27e8d19a4676a8d8a5942678601e/artifacts
+end_time: 1716485576318
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 207c27e8d19a4676a8d8a5942678601e
+run_name: gentle-tern-934
+run_uuid: 207c27e8d19a4676a8d8a5942678601e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485567708
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/abc29f0514a94a22b51d5d9b3ac2b89d/artifacts
+end_time: 1716484790036
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: abc29f0514a94a22b51d5d9b3ac2b89d
+run_name: rambunctious-ox-243
+run_uuid: abc29f0514a94a22b51d5d9b3ac2b89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484781701
+status: 3
+tags: []
+user_id: codespace

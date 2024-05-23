@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/f475b3e21f294fdd97123a1266da116f/artifacts
+end_time: 1716484499442
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: f475b3e21f294fdd97123a1266da116f
+run_name: redolent-sponge-965
+run_uuid: f475b3e21f294fdd97123a1266da116f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484491760
+status: 3
+tags: []
+user_id: codespace

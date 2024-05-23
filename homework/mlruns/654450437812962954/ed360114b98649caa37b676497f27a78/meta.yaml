@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/ed360114b98649caa37b676497f27a78/artifacts
+end_time: 1716484512087
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: ed360114b98649caa37b676497f27a78
+run_name: delicate-carp-595
+run_uuid: ed360114b98649caa37b676497f27a78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484499450
+status: 3
+tags: []
+user_id: codespace

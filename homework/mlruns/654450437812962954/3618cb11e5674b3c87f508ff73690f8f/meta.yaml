@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/3618cb11e5674b3c87f508ff73690f8f/artifacts
+end_time: 1716484656395
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 3618cb11e5674b3c87f508ff73690f8f
+run_name: overjoyed-ox-661
+run_uuid: 3618cb11e5674b3c87f508ff73690f8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484648575
+status: 3
+tags: []
+user_id: codespace

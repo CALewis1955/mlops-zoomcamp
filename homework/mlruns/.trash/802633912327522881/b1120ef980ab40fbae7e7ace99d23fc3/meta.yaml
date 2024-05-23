@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/b1120ef980ab40fbae7e7ace99d23fc3/artifacts
+deleted_time: 1716483336096
+end_time: 1716483003728
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: b1120ef980ab40fbae7e7ace99d23fc3
+run_name: kindly-ape-455
+run_uuid: b1120ef980ab40fbae7e7ace99d23fc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482995372
+status: 3
+tags: []
+user_id: codespace

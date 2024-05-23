@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/328e32d5f6e043388210453ab75446d8/artifacts
+deleted_time: 1716483336096
+end_time: 1716482995365
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: 328e32d5f6e043388210453ab75446d8
+run_name: skillful-crane-946
+run_uuid: 328e32d5f6e043388210453ab75446d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716482982760
+status: 3
+tags: []
+user_id: codespace

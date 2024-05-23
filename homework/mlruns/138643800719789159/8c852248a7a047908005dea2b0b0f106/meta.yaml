@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/8c852248a7a047908005dea2b0b0f106/artifacts
+end_time: 1716480010248
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 8c852248a7a047908005dea2b0b0f106
+run_name: traveling-ram-859
+run_uuid: 8c852248a7a047908005dea2b0b0f106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716480009286
+status: 3
+tags: []
+user_id: codespace

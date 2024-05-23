@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138643800719789159/6ce7b84ee5944697845718f1cdcc6a60/artifacts
+end_time: 1716480006503
+entry_point_name: ''
+experiment_id: '138643800719789159'
+lifecycle_stage: active
+run_id: 6ce7b84ee5944697845718f1cdcc6a60
+run_name: fun-fawn-289
+run_uuid: 6ce7b84ee5944697845718f1cdcc6a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716480003036
+status: 3
+tags: []
+user_id: codespace

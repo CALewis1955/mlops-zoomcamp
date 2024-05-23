@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/e20f82c75ebb4d1e8775935fcba6466f/artifacts
+end_time: 1716484648569
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: e20f82c75ebb4d1e8775935fcba6466f
+run_name: big-yak-889
+run_uuid: e20f82c75ebb4d1e8775935fcba6466f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716484639981
+status: 3
+tags: []
+user_id: codespace

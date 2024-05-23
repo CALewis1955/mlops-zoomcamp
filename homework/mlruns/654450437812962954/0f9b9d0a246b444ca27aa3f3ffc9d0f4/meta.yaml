@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654450437812962954/0f9b9d0a246b444ca27aa3f3ffc9d0f4/artifacts
+end_time: 1716485584198
+entry_point_name: ''
+experiment_id: '654450437812962954'
+lifecycle_stage: active
+run_id: 0f9b9d0a246b444ca27aa3f3ffc9d0f4
+run_name: righteous-bug-730
+run_uuid: 0f9b9d0a246b444ca27aa3f3ffc9d0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716485576324
+status: 3
+tags: []
+user_id: codespace

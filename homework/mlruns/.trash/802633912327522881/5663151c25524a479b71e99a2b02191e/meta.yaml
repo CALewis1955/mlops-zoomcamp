@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/802633912327522881/5663151c25524a479b71e99a2b02191e/artifacts
+deleted_time: 1716483336096
+end_time: 1716483012360
+entry_point_name: ''
+experiment_id: '802633912327522881'
+lifecycle_stage: deleted
+run_id: 5663151c25524a479b71e99a2b02191e
+run_name: thoughtful-ray-788
+run_uuid: 5663151c25524a479b71e99a2b02191e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716483003734
+status: 3
+tags: []
+user_id: codespace
